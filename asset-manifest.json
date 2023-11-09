@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.e6f69244.js",
+    "static/js/787.f39c1b93.chunk.js": "/static/js/787.f39c1b93.chunk.js",
+    "static/media/dummycontact.png": "/static/media/dummycontact.fe94a185bf681732a6a0.png",
+    "static/media/thapar1.jpg": "/static/media/thapar1.f6bb8044c612a1859eed.jpg",
+    "static/media/thapar2.jpg": "/static/media/thapar2.3ef20615bdcbd5eb97a9.jpg",
+    "static/media/pkNair.png": "/static/media/pkNair.db0902ac48b86d9a7fd9.png",
+    "static/media/rsk.png": "/static/media/rsk.84258c4bd96df22de47d.png",
+    "static/media/thapar.jpg": "/static/media/thapar.f32d5bd0a281bfd6351a.jpg",
+    "static/media/publication.png": "/static/media/publication.924bc5dc3963c5407d89.png",
+    "static/media/rangoli.jpg": "/static/media/rangoli.2ad8d41457fdbbae2464.jpg",
+    "static/media/ab.jpg": "/static/media/ab.62fa68448585b3c73c6e.jpg",
+    "static/media/scopus.png": "/static/media/scopus.fb0de49683f64b24080f.png",
+    "static/media/contactus.jpg": "/static/media/contactus.c105366a91733f419f07.jpg",
+    "static/media/background.jpg": "/static/media/background.a02764be89f0aa464871.jpg",
+    "static/media/springer.png": "/static/media/springer.0abf90ea0fb752ec78be.png",
+    "index.html": "/index.html",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.e6f69244.js.map": "/static/js/main.e6f69244.js.map",
+    "787.f39c1b93.chunk.js.map": "/static/js/787.f39c1b93.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e6f69244.js"
+  ]
+}
